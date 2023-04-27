@@ -1,0 +1,16 @@
+{
+    "name": "jordan/test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jordan\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordan"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
